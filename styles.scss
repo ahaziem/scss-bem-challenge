@@ -1,0 +1,18 @@
+$primary-color: black;
+$secondary-color: white;
+$font-family:Arial, Helvetica, sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+   color: $primary-color;
+   font-weight: bold;
+   height: 40px;
+   width: 100%;
+   font-family: $font-family;
+   
+}
